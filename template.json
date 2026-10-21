@@ -1,0 +1,23 @@
+{
+  "name": "Ìlẹ̀ Aṣọ Weaving Collective",
+  "slug": "ile-aso",
+  "concept": "Traditional textile collective",
+  "category": "culture-community",
+  "subcategory": "textile-craft",
+  "description": "Woven-pattern site for an aso-oke weaving collective: CSS-woven swatches, loom process diagram, commission guide and weaver profiles.",
+  "design_family": "woven-textile",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "CSS woven stripe patterns",
+    "fabric swatch catalogue",
+    "loom process diagram",
+    "bespoke commission panel",
+    "weaver profile rows",
+    "care guide"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
